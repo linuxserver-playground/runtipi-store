@@ -5,7 +5,7 @@
   "port": 8112,
   "id": "deluge",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "2.2.0",
   "categories": [
     "utilities"
   ],

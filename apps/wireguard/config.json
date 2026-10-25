@@ -5,7 +5,7 @@
   "port": 51820,
   "id": "wireguard",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "1.0.20260223-r0",
   "categories": [
     "network"
   ],

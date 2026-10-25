@@ -5,7 +5,7 @@
   "port": 80,
   "id": "duckdns",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "8d8f7eba",
   "categories": [
     "network"
   ],

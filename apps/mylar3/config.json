@@ -5,7 +5,7 @@
   "port": 8090,
   "id": "mylar3",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "v0.11.0",
   "categories": [
     "media",
     "books"
