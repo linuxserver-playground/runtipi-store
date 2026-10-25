@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "blender",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "5.2.3",
   "categories": [
     "utilities"
   ],

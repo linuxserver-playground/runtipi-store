@@ -5,7 +5,7 @@
   "port": 80,
   "id": "build-agent",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "a5e52c73",
   "categories": [
     "utilities"
   ],

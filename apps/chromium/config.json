@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "chromium",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "2dba585f",
   "categories": [
     "utilities"
   ],

@@ -5,7 +5,7 @@
   "port": 8000,
   "id": "babybuddy",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "v2.11.0",
   "categories": [
     "utilities"
   ],
