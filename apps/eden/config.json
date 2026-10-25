@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "eden",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "v0.2.1",
   "categories": [
     "gaming"
   ],
