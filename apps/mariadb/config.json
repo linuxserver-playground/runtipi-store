@@ -5,7 +5,7 @@
   "port": 3306,
   "id": "mariadb",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "11.8.9-r0",
   "categories": [
     "data"
   ],

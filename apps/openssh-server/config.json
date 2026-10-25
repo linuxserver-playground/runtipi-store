@@ -5,7 +5,7 @@
   "port": 2222,
   "id": "openssh-server",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "10.3_p1-r1",
   "categories": [
     "utilities"
   ],

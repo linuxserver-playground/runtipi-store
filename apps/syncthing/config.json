@@ -5,7 +5,7 @@
   "port": 8384,
   "id": "syncthing",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "v2.1.7",
   "categories": [
     "utilities"
   ],
