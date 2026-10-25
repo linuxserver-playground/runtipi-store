@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "kali-linux",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "fd5ef31d",
   "categories": [
     "security"
   ],
