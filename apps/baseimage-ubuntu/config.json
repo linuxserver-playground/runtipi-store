@@ -5,7 +5,7 @@
   "port": 80,
   "id": "baseimage-ubuntu",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "c0b9f66f",
   "categories": [
     "utilities"
   ],

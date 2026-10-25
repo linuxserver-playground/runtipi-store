@@ -5,7 +5,7 @@
   "port": 8080,
   "id": "calibre",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "v9.17.0",
   "categories": [
     "media",
     "books"

@@ -5,7 +5,7 @@
   "port": 3001,
   "id": "baseimage-selkies",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "3b96e1dd",
   "categories": [
     "utilities"
   ],
