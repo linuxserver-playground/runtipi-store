@@ -5,7 +5,7 @@
   "port": 80,
   "id": "fail2ban",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "1.1.0-r2",
   "categories": [
     "network",
     "security"
