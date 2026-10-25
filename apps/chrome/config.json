@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "chrome",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "156.0.8078.47-1",
   "categories": [
     "utilities"
   ],

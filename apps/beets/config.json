@@ -5,7 +5,7 @@
   "port": 8337,
   "id": "beets",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "2.14.1",
   "categories": [
     "media"
   ],

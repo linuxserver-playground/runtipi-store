@@ -5,7 +5,7 @@
   "port": 80,
   "id": "baseimage-fedora",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "5dc015f1",
   "categories": [
     "utilities"
   ],

@@ -5,7 +5,7 @@
   "port": 8080,
   "id": "boinc",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "8.2.8dfsg202512070716ubuntu24.04.1",
   "categories": [
     "utilities"
   ],

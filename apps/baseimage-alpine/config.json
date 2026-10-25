@@ -5,7 +5,7 @@
   "port": 80,
   "id": "baseimage-alpine",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "bc9f8d41",
   "categories": [
     "utilities"
   ],

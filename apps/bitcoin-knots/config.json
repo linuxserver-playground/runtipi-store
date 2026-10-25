@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "bitcoin-knots",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "29.4.knots20260508.2-resolute1",
   "categories": [
     "finance"
   ],
