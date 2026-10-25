@@ -5,7 +5,7 @@
   "port": 4040,
   "id": "airsonic-advanced",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "11.1.4",
   "categories": [
     "media"
   ],

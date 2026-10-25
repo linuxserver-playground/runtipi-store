@@ -5,7 +5,7 @@
   "port": 8080,
   "id": "audiosilo",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "v2.4.1",
   "categories": [
     "media",
     "books"

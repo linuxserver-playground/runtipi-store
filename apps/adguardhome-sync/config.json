@@ -5,7 +5,7 @@
   "port": 8080,
   "id": "adguardhome-sync",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "v0.9.5",
   "categories": [
     "network"
   ],
