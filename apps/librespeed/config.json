@@ -5,7 +5,7 @@
   "port": 80,
   "id": "librespeed",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "v6.3.1",
   "categories": [
     "utilities"
   ],

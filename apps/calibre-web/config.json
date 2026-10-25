@@ -5,7 +5,7 @@
   "port": 8083,
   "id": "calibre-web",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "0.6.27",
   "categories": [
     "media",
     "books"

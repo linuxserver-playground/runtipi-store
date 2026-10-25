@@ -5,7 +5,7 @@
   "port": 8000,
   "id": "healthchecks",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "v5.0.1",
   "categories": [
     "utilities"
   ],

@@ -5,7 +5,7 @@
   "port": 80,
   "id": "phpmyadmin",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "5.2.3",
   "categories": [
     "data"
   ],
