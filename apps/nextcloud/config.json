@@ -5,7 +5,7 @@
   "port": 443,
   "id": "nextcloud",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "35.0.2",
   "categories": [
     "utilities"
   ],

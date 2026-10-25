@@ -5,7 +5,7 @@
   "port": 8200,
   "id": "duplicati",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "v2.4.0.1_stable_2026-10-07",
   "categories": [
     "utilities"
   ],

@@ -5,7 +5,7 @@
   "port": 8181,
   "id": "tautulli",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "v2.18.2",
   "categories": [
     "media"
   ],
