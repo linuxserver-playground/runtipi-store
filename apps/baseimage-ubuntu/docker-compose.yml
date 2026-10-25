@@ -1,0 +1,13 @@
+services:
+  baseimage-ubuntu:
+    image: ghcr.io/linuxserver-playground/baseimage-ubuntu:resolute
+    environment:
+      PUID: '1000'
+      PGID: '1000'
+      TZ: ${TZ}
+    volumes: []
+    x-runtipi:
+      is_main: true
+      internal_port: 80
+x-runtipi:
+  schema_version: 2

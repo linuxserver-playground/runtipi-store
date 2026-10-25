@@ -1,0 +1,24 @@
+{
+  "name": "Baseimage-fedora",
+  "available": true,
+  "exposable": true,
+  "port": 80,
+  "id": "baseimage-fedora",
+  "tipi_version": 1,
+  "version": "latest",
+  "categories": [
+    "utilities"
+  ],
+  "description": "baseimage-fedora container image.",
+  "short_desc": "baseimage-fedora container image",
+  "author": "linuxserver.io",
+  "source": "https://github.com/linuxserver-playground/docker-baseimage-fedora",
+  "website": "https://github.com/linuxserver-playground/docker-baseimage-fedora",
+  "logo_url": "",
+  "form_fields": [],
+  "supported_architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "dynamic_config": false
+}
