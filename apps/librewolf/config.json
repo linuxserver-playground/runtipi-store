@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "librewolf",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "158.0.1-2",
   "categories": [
     "utilities"
   ],

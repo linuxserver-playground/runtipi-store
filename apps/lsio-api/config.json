@@ -5,7 +5,7 @@
   "port": 80,
   "id": "lsio-api",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "230cb1e0",
   "categories": [
     "utilities"
   ],
