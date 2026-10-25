@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "kicad",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "10.0.3-r0",
   "categories": [
     "utilities"
   ],

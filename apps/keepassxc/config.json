@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "keepassxc",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "2.7.12-r1",
   "categories": [
     "security"
   ],

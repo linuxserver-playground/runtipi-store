@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "hedgedoc",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "1.12.0",
   "categories": [
     "utilities"
   ],
