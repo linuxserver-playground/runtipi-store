@@ -5,7 +5,7 @@
   "port": 5050,
   "id": "flexget",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "v3.22.7",
   "categories": [
     "utilities"
   ],

@@ -5,7 +5,7 @@
   "port": 10300,
   "id": "faster-whisper",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "v3.8.1",
   "categories": [
     "utilities"
   ],
