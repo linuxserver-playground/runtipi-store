@@ -5,7 +5,7 @@
   "port": 80,
   "id": "xbackbone",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "3.8.2",
   "categories": [
     "utilities"
   ],

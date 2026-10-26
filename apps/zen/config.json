@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "zen",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "1.23.4b",
   "categories": [
     "utilities"
   ],
