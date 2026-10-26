@@ -5,7 +5,7 @@
   "port": 80,
   "id": "mastodon",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "v4.7.3",
   "categories": [
     "social"
   ],
