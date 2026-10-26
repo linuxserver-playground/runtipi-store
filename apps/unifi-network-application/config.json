@@ -5,7 +5,7 @@
   "port": 8443,
   "id": "unifi-network-application",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "10.6.109",
   "categories": [
     "network"
   ],

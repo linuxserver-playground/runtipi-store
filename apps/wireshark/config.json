@@ -5,7 +5,7 @@
   "port": 3001,
   "id": "wireshark",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "4.6.6-r0",
   "categories": [
     "network"
   ],
