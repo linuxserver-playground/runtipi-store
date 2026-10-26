@@ -1,0 +1,24 @@
+{
+  "name": "Unrar",
+  "available": true,
+  "exposable": true,
+  "port": 80,
+  "id": "unrar",
+  "tipi_version": 1,
+  "version": "latest",
+  "categories": [
+    "utilities"
+  ],
+  "description": "unrar container image.",
+  "short_desc": "unrar container image",
+  "author": "linuxserver.io",
+  "source": "https://github.com/linuxserver-playground/docker-unrar",
+  "website": "https://github.com/linuxserver-playground/docker-unrar",
+  "logo_url": "",
+  "form_fields": [],
+  "supported_architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "dynamic_config": false
+}
