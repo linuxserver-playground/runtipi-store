@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "mysql-workbench",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "8.0.47",
   "categories": [
     "data"
   ],

@@ -5,7 +5,7 @@
   "port": 3001,
   "id": "pelorus",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "0.2.4",
   "categories": [
     "utilities"
   ],

@@ -1,0 +1,24 @@
+{
+  "name": "Python",
+  "available": true,
+  "exposable": true,
+  "port": 80,
+  "id": "python",
+  "tipi_version": 1,
+  "version": "latest",
+  "categories": [
+    "utilities"
+  ],
+  "description": "python container image.",
+  "short_desc": "python container image",
+  "author": "linuxserver.io",
+  "source": "https://github.com/linuxserver-playground/docker-python",
+  "website": "https://github.com/linuxserver-playground/docker-python",
+  "logo_url": "",
+  "form_fields": [],
+  "supported_architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "dynamic_config": false
+}

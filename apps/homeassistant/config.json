@@ -5,7 +5,7 @@
   "port": 8123,
   "id": "homeassistant",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "2026.10.4",
   "categories": [
     "automation"
   ],
