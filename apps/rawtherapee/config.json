@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "rawtherapee",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "5.13",
   "categories": [
     "utilities"
   ],

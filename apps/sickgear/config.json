@@ -5,7 +5,7 @@
   "port": 8081,
   "id": "sickgear",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "release_3.36.8",
   "categories": [
     "media"
   ],

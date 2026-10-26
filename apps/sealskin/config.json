@@ -5,7 +5,7 @@
   "port": 8443,
   "id": "sealskin",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "0.4.0",
   "categories": [
     "utilities"
   ],

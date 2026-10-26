@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "raneto",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "0.18.1",
   "categories": [
     "utilities"
   ],

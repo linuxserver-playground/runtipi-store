@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "sqlitebrowser",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "3.13.1-r1",
   "categories": [
     "data"
   ],
