@@ -5,7 +5,7 @@
   "port": 3000,
   "id": "telegram",
   "tipi_version": 1,
-  "version": "latest",
+  "version": "7.3.3",
   "categories": [
     "social"
   ],
