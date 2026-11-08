@@ -5,7 +5,7 @@
   "port": 8000,
   "id": "apprise-api",
   "tipi_version": 1,
-  "version": "v2.0.2",
+  "version": "v2.1.0",
   "categories": [
     "utilities"
   ],
